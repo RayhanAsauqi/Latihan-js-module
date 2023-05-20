@@ -1,0 +1,105 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+.col h1{
+    font-size: 48px;
+    font-weight: 700;
+ 
+}
+.hero{
+    margin-top: 120px;
+}
+.hero img{
+    width: 820px;
+    margin-top: 60px;
+}
+.works{
+    margin-top: 120px;
+}
+.works h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.works p{
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.works .col-4 img{
+    margin-top: 60px;
+    width: 400px;
+}
+
+.works .col-4 p{
+    font-size: 16px;
+    line-height: 22px;
+
+}
+.works .col-4 a{
+    font-size: 16px;
+    line-height: 22px;
+    color: #fff;
+
+}
+
+.aboutMe {
+    margin-top: 60px;
+    width: 1240px;
+    height: 415px;
+    background: linear-gradient(90deg, rgba(217, 217, 217, 0.7) 16.8%, rgba(217, 217, 217, 0) 94.68%);
+    /* filter: blur(90px); */
+    border-radius: 0px 100px;
+}
+
+.aboutMe .isi {
+    margin-left: 60px;
+   
+}
+
+.aboutMe .isi h1{
+    margin-top: 60px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.aboutMe .isi p{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 24px;
+    text-align: justify;
+
+}
+
+.aboutMe .isi a{
+    margin-left: 60px;
+    color: #fff;
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.aboutMe .isi .gambar{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.touch{
+    margin-top: 120px;
+    font-size: 24px;
+}
+
+
+.touch .row .paraf{
+  margin-top: 20px;
+}
+.border .form{
+    
+
+
+border: 1.5px solid #404040;
+}
+
+.footer .coll .img{
+    justify-content: left;
+}
